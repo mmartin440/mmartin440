@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martha</h1>
-<h3 align="center">I'm exited to get back into coding and ready to test my limits.</h3>
+<h3 align="center">I'm exited to explore my creative side with coding and see what I can do as a Software Engineer. </h3>
+<p align="center"> Check out my projects and hope you like them.</p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/martha-martin-pablo/">
@@ -7,11 +8,9 @@
 </a>
 </p>
 
-#
-
 <p>
 <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=mmartin440&show_icons=true&theme=radical" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmartin440&layout=compact" />
 </P>
 
 #
